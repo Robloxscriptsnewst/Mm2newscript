@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Robloxscriptsnewst/mm2script-/refs/heads/main/Mm2"))()
